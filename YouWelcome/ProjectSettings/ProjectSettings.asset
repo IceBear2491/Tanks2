@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: e1e2cda8ba57ca4409b1287429be3b47
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -961,7 +961,7 @@ PlayerSettings:
   cloudProjectId: b310066a-2059-4005-94f0-e526358e3377
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: QA-Pack-1 2026-01-14_20-55-28
+  projectName: YouWelcome
   organizationId: icebear249
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
